@@ -1,1 +1,2 @@
-# Automated_email_birthday_wisher
+# Automated Email Birthday Wisher
+Made using python, SMTP, Pandas libararies that automates birthday emails to people 
